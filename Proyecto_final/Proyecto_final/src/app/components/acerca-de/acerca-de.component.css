@@ -1,0 +1,46 @@
+.row{
+    padding: 20px;
+}
+
+div{
+    text-align: center;
+}
+
+.nombre{
+    font-weight: bold;
+    margin-top: 30%;
+}
+
+
+
+
+/*Estilos a la imagen de perfil*/
+@media (min-width: 576px){
+    #imagenPerfil{
+        position:absolute;
+        width: 15%;
+        border-radius: 100%;
+        box-shadow: 3px 3px 3px rgb(160, 157, 11);
+        left: 3%;
+        top: 40em;
+    }
+    #acercaDe{
+        position: absolute;
+        top: 46em;
+        left: 35%;
+    }
+    
+}
+    @media (max-width:575px){
+        #imagenPerfil{
+            position:absolute;
+            width: 35%;
+            border-radius: 100%;
+            box-shadow: 3px 3px 3px rgb(160, 157, 11);
+            left: 33%;
+            top: 41em;
+        }
+        
+    }
+
+    

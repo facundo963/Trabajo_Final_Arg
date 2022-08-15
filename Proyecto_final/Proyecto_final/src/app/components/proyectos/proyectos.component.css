@@ -1,0 +1,17 @@
+.row{
+    padding: 20px;
+}
+
+.container{
+    width: auto;
+}
+
+.parteTexto, .parteImagen{
+    display:inline-block;
+    text-align: justify;
+}
+
+.img-proyecto{
+    width: 50em;
+    box-shadow: 5px 5px 5px rgb(85, 85, 85);
+}
