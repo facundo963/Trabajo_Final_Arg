@@ -24,10 +24,10 @@
             ],
             "styles": [
               "src/styles.css",
-              "C:/Users/facun/Desktop/Proyecto_final/Proyecto_final/node_modules/bootstrap/dist/css/bootstrap.css"
+              "Proyecto_final/node_modules/bootstrap/dist/css/bootstrap.css"
             ],
             "scripts": [
-              "C:/Users/facun/Desktop/Proyecto_final/Proyecto_final/node_modules/bootstrap/dist/js/bootstrap.js"
+              "Proyecto_final/node_modules/bootstrap/dist/js/bootstrap.js"
             ]
           },
           "configurations": {
